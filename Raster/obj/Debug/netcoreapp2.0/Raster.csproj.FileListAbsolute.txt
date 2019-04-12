@@ -1,0 +1,10 @@
+c:\users\fabian\documents\visual studio 2017\Projects\Raster\Raster\bin\Debug\netcoreapp2.0\Raster.deps.json
+c:\users\fabian\documents\visual studio 2017\Projects\Raster\Raster\bin\Debug\netcoreapp2.0\Raster.runtimeconfig.json
+c:\users\fabian\documents\visual studio 2017\Projects\Raster\Raster\bin\Debug\netcoreapp2.0\Raster.runtimeconfig.dev.json
+c:\users\fabian\documents\visual studio 2017\Projects\Raster\Raster\bin\Debug\netcoreapp2.0\Raster.dll
+c:\users\fabian\documents\visual studio 2017\Projects\Raster\Raster\bin\Debug\netcoreapp2.0\Raster.pdb
+c:\users\fabian\documents\visual studio 2017\Projects\Raster\Raster\obj\Debug\netcoreapp2.0\Raster.csproj.CoreCompileInputs.cache
+c:\users\fabian\documents\visual studio 2017\Projects\Raster\Raster\obj\Debug\netcoreapp2.0\Raster.AssemblyInfoInputs.cache
+c:\users\fabian\documents\visual studio 2017\Projects\Raster\Raster\obj\Debug\netcoreapp2.0\Raster.AssemblyInfo.cs
+c:\users\fabian\documents\visual studio 2017\Projects\Raster\Raster\obj\Debug\netcoreapp2.0\Raster.dll
+c:\users\fabian\documents\visual studio 2017\Projects\Raster\Raster\obj\Debug\netcoreapp2.0\Raster.pdb

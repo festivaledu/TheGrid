@@ -1,0 +1,10 @@
+C:\Users\Fabian\documents\visual studio 2017\Projects\Raster\Raster\bin\Debug\netcoreapp2.0\TheGrid.deps.json
+C:\Users\Fabian\documents\visual studio 2017\Projects\Raster\Raster\bin\Debug\netcoreapp2.0\TheGrid.runtimeconfig.json
+C:\Users\Fabian\documents\visual studio 2017\Projects\Raster\Raster\bin\Debug\netcoreapp2.0\TheGrid.runtimeconfig.dev.json
+C:\Users\Fabian\documents\visual studio 2017\Projects\Raster\Raster\bin\Debug\netcoreapp2.0\TheGrid.dll
+C:\Users\Fabian\documents\visual studio 2017\Projects\Raster\Raster\obj\Debug\netcoreapp2.0\TheGrid.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\documents\visual studio 2017\Projects\Raster\Raster\obj\Debug\netcoreapp2.0\TheGrid.AssemblyInfoInputs.cache
+C:\Users\Fabian\documents\visual studio 2017\Projects\Raster\Raster\obj\Debug\netcoreapp2.0\TheGrid.AssemblyInfo.cs
+C:\Users\Fabian\documents\visual studio 2017\Projects\Raster\Raster\bin\Debug\netcoreapp2.0\TheGrid.pdb
+C:\Users\Fabian\documents\visual studio 2017\Projects\Raster\Raster\obj\Debug\netcoreapp2.0\TheGrid.dll
+C:\Users\Fabian\documents\visual studio 2017\Projects\Raster\Raster\obj\Debug\netcoreapp2.0\TheGrid.pdb
